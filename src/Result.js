@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
       color: "#fff"
    },
    resultText: {
-      fontSize:30,
+      fontSize:40,
       color:'#fff'
    }
 });
